@@ -1,0 +1,7 @@
+source_path_or_url,kind,review_result,package_action
+/Users/dlev2617/Documents/Papers/~05-Published/Transportation Planning and Technology/TPT-TRB09-I-35W-BridgeRegion/I-35W-TRB2009-BridgeRegion.pdf,paper_pdf,"Read for stated model/data/code boundary: Twin Cities Seven-County model, July 2007 loop detectors, SONG 2.0 Java assignment code, bridge-collapse scenarios.",keep_existing_paper_copy
+/Users/dlev2617/Documents/Papers/~05-Published/Transportation Planning and Technology/TPT-TRB09-I-35W-BridgeRegion/I35WBridge.tex,paper_source,Checked as local source evidence for paper text and methods.,do_not_copy
+/Users/dlev2617/Documents/Data/~Nexus_Data/I-35WProject,broad_project_data,"Contains broad OD, SpeedData, GIS, GPS, and survey materials; too broad for bulk upload and includes materials for other I-35W rows.",document_only
+/Users/dlev2617/Documents/Data/~Nexus_Data/I-35WProject/ODFile,broad_od_archive,Approximately multi-GB OD archive; not a curated paper package.,exclude_bulk_archive
+/Users/dlev2617/Documents/Data/~Nexus_Data/I-35WProject/SpeedData,broad_detector_archive,Approximately multi-GB detector/speed archive; paper cites public MnDOT detector data but package should not mirror the whole folder.,exclude_bulk_archive
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/SONG2_FINAL_ab/SONG_FINAL_b,candidate_code_package,Likely SONG 2.0 Java/model source package; hydration verified and curated Java/model-input subset staged into this package.,staged_curated_subset

@@ -1,0 +1,7 @@
+path,reason,status
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/SONG2_FINAL_ab/SONG_FINAL_b/SONG.java,Likely SONG 2.0 Java source for the paper's translated/optimized model code.,download_complete_staged_in_package
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/SONG2_FINAL_ab/SONG_FINAL_b/TAssignment.java,Traffic assignment implementation likely tied to paper's Dial/MSA description.,download_complete_staged_in_package
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/SONG2_FINAL_ab/SONG_FINAL_b/TDistribution.java,Trip distribution implementation likely tied to paper model.,download_complete_staged_in_package
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/SONG2_FINAL_ab/SONG_FINAL_b/TGeneration.java,Trip generation implementation likely tied to paper model.,download_complete_staged_in_package
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/SONG2_FINAL_ab/SONG_FINAL_b/DirectedGraph.java,Graph implementation dependency for assignment/model code.,download_complete_staged_in_package
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/SONG2_FINAL_ab/SONG_FINAL_b/Investment.java,Scenario/network investment implementation likely tied to modified-link scenarios.,download_complete_staged_in_package
