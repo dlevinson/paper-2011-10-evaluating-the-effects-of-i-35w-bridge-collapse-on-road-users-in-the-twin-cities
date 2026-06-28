@@ -7,7 +7,7 @@ Generated: 2026-05-20 15:23:47 AEST
 - Row ID: `paper-2011-10`
 - Pipeline: `UPLOADED`
 - Upload action: `derived_only_candidate`
-- Packaging status: `ready_to_package_review`
+- Packaging status: `candidate_package_after_license_review`
 - Rights status: `likely_clear_with_provenance`
 - Controlled access status: `none`
 - Human subjects status: `no`
@@ -21,6 +21,14 @@ Generated: 2026-05-20 15:23:47 AEST
 - Data candidates: 0
 - Archive candidates: 0
 - Review-only files: 0
+
+## License Boundary
+
+- Root `LICENSE.md` applies MIT to author-created Java source and CC BY 4.0 to
+  author-created repository documentation and notes.
+- Staged SONG model input files preserve their source-specific terms and
+  provenance.
+- The paper PDF is reference-only and not relicensed.
 
 ## Upload Boundary
 

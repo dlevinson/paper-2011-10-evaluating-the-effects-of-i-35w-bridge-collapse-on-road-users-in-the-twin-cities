@@ -24,6 +24,13 @@ This paper provides a networkwide economic evaluation of the I-35W bridge collap
 - Asset match status: `partial_match`
 - Audit timestamp: 2026-05-17 14:53:58
 
+## License
+
+- `LICENSE.md` applies MIT to the author-created Java source and CC BY 4.0 to
+  author-created repository documentation and notes.
+- Staged SONG model input files keep their source-specific terms and provenance.
+- The paper PDF remains a reference copy and is not relicensed here.
+
 ## Public Archive Or Source Pointers
 
 - No sufficient public archive pointer is recorded in the current audit.
